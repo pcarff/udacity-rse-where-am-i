@@ -1,0 +1,6 @@
+alias eb='nano ~/.bashrc'
+alias sb='source ~/.bashrc'
+alias cw='cd ~/workspace/catkin_ws'
+alias cs='cd ~/workspace/catkin_ws/src'
+alias sdb='source devel/setup.bash'
+alias cm='cd ~/workspace/catkin_ws && catkin_make'
